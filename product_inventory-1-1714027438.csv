@@ -1,0 +1,201 @@
+﻿ProductID,ProductName,Category,StockLevel,Price
+1,Product_1,Clothing,22,46.11
+2,Product_2,Home & Kitchen,140,81.6
+3,Product_3,Home & Kitchen,473,78.72
+4,Product_4,Clothing,386,22.06
+5,Product_5,Beauty & Health,284,17.97
+6,Product_6,Home & Kitchen,449,91.73
+7,Product_7,Home & Kitchen,319,58.2
+8,Product_8,Home & Kitchen,155,87.2
+9,Product_9,Clothing,470,15.23
+10,Product_10,Electronics,419,57.39
+11,Product_11,Electronics,112,58.55
+12,Product_12,Electronics,389,87.46
+13,Product_13,Electronics,138,18.78
+14,Product_14,Electronics,421,31.64
+15,Product_15,Home & Kitchen,373,46.59
+16,Product_16,Home & Kitchen,417,87.93
+17,Product_17,Beauty & Health,208,94.5
+18,Product_18,Home & Kitchen,322,99.35
+19,Product_19,Clothing,363,96.33
+20,Product_20,Beauty & Health,429,10.53
+21,Product_21,Home & Kitchen,481,14.29
+22,Product_22,Beauty & Health,85,23.28
+23,Product_23,Beauty & Health,284,41.4
+24,Product_24,Electronics,59,84.69
+25,Product_25,Beauty & Health,53,90.34
+26,Product_26,Home & Kitchen,92,26.82
+27,Product_27,Electronics,324,65.77
+28,Product_28,Home & Kitchen,457,92.56
+29,Product_29,Electronics,457,51.74
+30,Product_30,Home & Kitchen,372,19.32
+31,Product_31,Electronics,264,51.2
+32,Product_32,Electronics,381,43.82
+33,Product_33,Clothing,212,61.99
+34,Product_34,Home & Kitchen,332,49.48
+35,Product_35,Beauty & Health,9,11.56
+36,Product_36,Electronics,357,99.46
+37,Product_37,Home & Kitchen,202,58.92
+38,Product_38,Electronics,195,52.63
+39,Product_39,Clothing,57,95.92
+40,Product_40,Clothing,493,24.03
+41,Product_41,Clothing,255,27.03
+42,Product_42,Clothing,222,82.72
+43,Product_43,Beauty & Health,368,33.47
+44,Product_44,Beauty & Health,179,81.93
+45,Product_45,Electronics,417,34.44
+46,Product_46,Home & Kitchen,361,12.99
+47,Product_47,Clothing,34,56.53
+48,Product_48,Clothing,358,27.7
+49,Product_49,Beauty & Health,102,78.21
+50,Product_50,Beauty & Health,160,67.71
+51,Product_51,Clothing,199,93.12
+52,Product_52,Home & Kitchen,159,80.47
+53,Product_53,Electronics,182,26.27
+54,Product_54,Electronics,352,82.01
+55,Product_55,Electronics,135,67.76
+56,Product_56,Electronics,429,70.21
+57,Product_57,Home & Kitchen,397,84.9
+58,Product_58,Home & Kitchen,225,61.64
+59,Product_59,Home & Kitchen,391,51.94
+60,Product_60,Beauty & Health,242,67.3
+61,Product_61,Clothing,105,36.82
+62,Product_62,Home & Kitchen,70,26.43
+63,Product_63,Electronics,76,65.49
+64,Product_64,Home & Kitchen,53,31.05
+65,Product_65,Clothing,276,17.19
+66,Product_66,Beauty & Health,110,10.05
+67,Product_67,Electronics,223,64.75
+68,Product_68,Beauty & Health,74,42.59
+69,Product_69,Home & Kitchen,13,77.71
+70,Product_70,Electronics,458,43.77
+71,Product_71,Electronics,257,53.74
+72,Product_72,Home & Kitchen,481,46.64
+73,Product_73,Home & Kitchen,188,68.55
+74,Product_74,Clothing,363,42.05
+75,Product_75,Home & Kitchen,238,96.74
+76,Product_76,Home & Kitchen,400,94.25
+77,Product_77,Home & Kitchen,333,86.32
+78,Product_78,Electronics,472,92.83
+79,Product_79,Clothing,303,50.42
+80,Product_80,Electronics,90,58.28
+81,Product_81,Home & Kitchen,391,76.79
+82,Product_82,Clothing,183,72.65
+83,Product_83,Home & Kitchen,16,90.16
+84,Product_84,Electronics,452,74.47
+85,Product_85,Electronics,11,99.81
+86,Product_86,Home & Kitchen,165,41.37
+87,Product_87,Clothing,145,84.97
+88,Product_88,Electronics,281,72.79
+89,Product_89,Home & Kitchen,478,72.22
+90,Product_90,Beauty & Health,36,39.33
+91,Product_91,Home & Kitchen,69,80.7
+92,Product_92,Home & Kitchen,168,91.03
+93,Product_93,Clothing,0,29.67
+94,Product_94,Home & Kitchen,169,66.29
+95,Product_95,Beauty & Health,496,45.29
+96,Product_96,Home & Kitchen,252,99.06
+97,Product_97,Beauty & Health,345,53.09
+98,Product_98,Electronics,498,30.55
+99,Product_99,Home & Kitchen,459,44.37
+100,Product_100,Clothing,296,68.85
+101,Product_101,Home & Kitchen,430,16.85
+102,Product_102,Beauty & Health,141,64.32
+103,Product_103,Beauty & Health,384,93.81
+104,Product_104,Clothing,272,86.53
+105,Product_105,Beauty & Health,224,16.09
+106,Product_106,Home & Kitchen,182,99.41
+107,Product_107,Beauty & Health,220,72.89
+108,Product_108,Home & Kitchen,52,24.61
+109,Product_109,Home & Kitchen,117,11.12
+110,Product_110,Beauty & Health,364,25.42
+111,Product_111,Clothing,158,85.44
+112,Product_112,Electronics,445,11.95
+113,Product_113,Clothing,135,30.98
+114,Product_114,Electronics,413,78.16
+115,Product_115,Clothing,76,62.75
+116,Product_116,Home & Kitchen,335,80.45
+117,Product_117,Home & Kitchen,449,77.15
+118,Product_118,Beauty & Health,44,14.55
+119,Product_119,Electronics,17,90.33
+120,Product_120,Electronics,354,30.43
+121,Product_121,Beauty & Health,428,59.81
+122,Product_122,Clothing,402,67.99
+123,Product_123,Beauty & Health,204,25.18
+124,Product_124,Clothing,498,97.86
+125,Product_125,Beauty & Health,323,53.93
+126,Product_126,Electronics,82,15.19
+127,Product_127,Electronics,49,94.35
+128,Product_128,Clothing,280,62.76
+129,Product_129,Electronics,165,72.93
+130,Product_130,Electronics,242,57.27
+131,Product_131,Electronics,376,85.13
+132,Product_132,Electronics,478,12.98
+133,Product_133,Home & Kitchen,163,34.15
+134,Product_134,Beauty & Health,323,52.27
+135,Product_135,Beauty & Health,55,16.89
+136,Product_136,Home & Kitchen,38,73.53
+137,Product_137,Electronics,318,45.43
+138,Product_138,Beauty & Health,127,34.54
+139,Product_139,Beauty & Health,390,10.3
+140,Product_140,Beauty & Health,121,74.78
+141,Product_141,Clothing,246,85.04
+142,Product_142,Home & Kitchen,185,45.55
+143,Product_143,Clothing,207,60.78
+144,Product_144,Clothing,314,30.49
+145,Product_145,Home & Kitchen,303,66
+146,Product_146,Beauty & Health,388,11.09
+147,Product_147,Clothing,238,53.98
+148,Product_148,Beauty & Health,214,67.98
+149,Product_149,Clothing,291,92.64
+150,Product_150,Beauty & Health,223,44.32
+151,Product_151,Electronics,87,78.87
+152,Product_152,Electronics,24,63.79
+153,Product_153,Electronics,428,93.43
+154,Product_154,Home & Kitchen,219,45.85
+155,Product_155,Electronics,274,38.72
+156,Product_156,Clothing,134,89.84
+157,Product_157,Beauty & Health,491,14.43
+158,Product_158,Beauty & Health,441,22.27
+159,Product_159,Beauty & Health,232,17.42
+160,Product_160,Beauty & Health,464,85.88
+161,Product_161,Clothing,65,10.95
+162,Product_162,Beauty & Health,79,87.55
+163,Product_163,Clothing,422,50.61
+164,Product_164,Clothing,254,10.36
+165,Product_165,Beauty & Health,124,46.15
+166,Product_166,Beauty & Health,145,26.81
+167,Product_167,Beauty & Health,102,66.2
+168,Product_168,Clothing,384,71.14
+169,Product_169,Home & Kitchen,446,53.88
+170,Product_170,Clothing,386,13.65
+171,Product_171,Home & Kitchen,382,69.05
+172,Product_172,Beauty & Health,276,85.78
+173,Product_173,Clothing,381,74.83
+174,Product_174,Beauty & Health,123,84.7
+175,Product_175,Home & Kitchen,413,28.05
+176,Product_176,Home & Kitchen,266,90
+177,Product_177,Clothing,277,39
+178,Product_178,Clothing,110,11.21
+179,Product_179,Clothing,380,85.91
+180,Product_180,Clothing,312,94.76
+181,Product_181,Electronics,88,69
+182,Product_182,Electronics,386,30.83
+183,Product_183,Beauty & Health,157,32.66
+184,Product_184,Home & Kitchen,215,51.99
+185,Product_185,Home & Kitchen,383,90.8
+186,Product_186,Beauty & Health,300,23.46
+187,Product_187,Beauty & Health,35,84.34
+188,Product_188,Beauty & Health,86,36.22
+189,Product_189,Electronics,117,82.77
+190,Product_190,Beauty & Health,327,92.82
+191,Product_191,Home & Kitchen,447,48.47
+192,Product_192,Beauty & Health,181,42.85
+193,Product_193,Clothing,67,82.2
+194,Product_194,Home & Kitchen,433,57.65
+195,Product_195,Home & Kitchen,358,71.6
+196,Product_196,Home & Kitchen,490,66.05
+197,Product_197,Electronics,158,23.76
+198,Product_198,Electronics,284,86.03
+199,Product_199,Home & Kitchen,442,27.62
+200,Product_200,Clothing,163,93.91
